@@ -1,2 +1,2 @@
 # fast_api_demo_app
-Sample demo app fro fast api integrated with Sverte.
+Sample demo app for fastapi with github integration and deployment to Azure
